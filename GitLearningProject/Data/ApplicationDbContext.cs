@@ -4,7 +4,6 @@
     {
         public ApplicationDbContext() {
           var b= new ApplicationDbContext(); 
-
         }   
     }
 }
